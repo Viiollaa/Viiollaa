@@ -2,8 +2,8 @@
 I'm a first- year Computer Science student at National Taipei University of technology (NTUT). I'm currently on an exciting journey to explore the world of AI, data analytics, and urban technology
 
 🌱 What I'm Learning: 
--Python & Data analysis
--AI Applications
+- Python & Data analysis
+- AI Applications
 
 ✨ Why am I here: 
 I'm passionate about bridging the gap between computer science and the real-world ennvironment impcat. I'm actively looking for opportunities to contribute, learn and grow!
